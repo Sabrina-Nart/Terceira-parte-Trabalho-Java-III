@@ -1,0 +1,35 @@
+
+    {
+        "id": 1,
+        "reservaTraje": {
+            "id": 1,
+            "cliente": {
+                "id": 8
+            }
+            "vestidos": {
+                "id": 1
+            }
+            "dataLocacao": "2023-05-30"
+        }
+        "totalVestidos": 10.0,
+        "evento": "CASA",
+        "data_retirada": "2023-06-02",
+        "data_entrega": "2023-06-02"
+    }
+    {
+        "id": 2,
+        "reservaTraje": {
+            "id": 7,
+            "cliente": {
+                "id": 7
+            }
+            "vestidos": {
+                "id": 2
+            }
+            "dataLocacao": "2023-06-03"
+        }
+        "totalVestidos": 14.0,
+        "evento": "CASAMENTO",
+        "data_retirada": "2023-06-03",
+        "data_entrega": "2023-06-03"
+    }

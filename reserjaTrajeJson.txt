@@ -1,0 +1,20 @@
+    {
+        "id": 1,
+        "cliente": {
+            "id": 8
+        }
+        "vestidos": {
+            "id": 1
+        }
+        "dataLocacao": "2023-05-30"
+    }
+    {
+        "id": 2,
+        "cliente": {
+            "id": 9
+        }
+        "vestidos": {
+            "id": 3
+        },
+        "dataLocacao": "2023-05-30"
+    }

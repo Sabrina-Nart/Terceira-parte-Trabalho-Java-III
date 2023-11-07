@@ -1,0 +1,19 @@
+
+    {
+        "nome": "ISADORA COMIN NART",
+        "cpf": "123.456.789-00",
+        "telefone": "999971234",
+        "endereco": "ALTO RIO MAINA - SIDERÓPOLIS"
+    }
+    {
+        "nome": "MAYNARA COLOMBO COMIN",
+        "cpf": "586.956.789-55",
+        "telefone": "48997770000",
+        "endereco": "SÃO MARTILHO ALTO - SIDERÓPOLIS"
+    }
+    {
+        "nome": "ISADORA COMIN NART",
+        "cpf": "123.456.789-00",
+        "telefone": "999971234",
+        "endereco": "ALTO RIO MAINA - SIDERÓPOLIS"
+    }
